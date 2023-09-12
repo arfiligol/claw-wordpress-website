@@ -1,0 +1,5 @@
+schedule
+python-json-logger
+selenium
+stem
+python-dotenv
